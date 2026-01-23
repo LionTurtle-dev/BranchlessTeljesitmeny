@@ -1,0 +1,17 @@
+SEBESSÉGMÉRÉS ÉRTÉKADÁSNÁL:
+-----------------------------
+avgif_basic=0.00474
+avter_basic=0.00563
+avnot_basic=0.00892
+
+SEBESSÉGMÉRÉS PRINT UTASÍTÁSSAL:
+-----------------------------
+avgif_print=0.77467
+avter_print=0.76754
+avnot_print=0.81761
+
+SEBESSÉGMÉRÉS MINDKETTŐVEL:
+-----------------------------
+avgif_all=0.73559
+avter_all=0.6912
+avnot_all=0.79545
