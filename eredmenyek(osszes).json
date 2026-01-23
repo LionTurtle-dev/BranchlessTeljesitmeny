@@ -1,0 +1,504 @@
+{
+    "Futasi eredmenyek": [
+        {
+            "El\u00e1gaz\u00e1ssal": 0.791,
+            "Ternary-val": 0.901,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.82
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.677,
+            "Ternary-val": 0.679,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.758
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.688,
+            "Ternary-val": 0.627,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.739
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.703,
+            "Ternary-val": 0.641,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.777
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.668,
+            "Ternary-val": 0.625,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.754
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.668,
+            "Ternary-val": 0.624,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.78
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.667,
+            "Ternary-val": 0.639,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.795
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.65,
+            "Ternary-val": 0.639,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.791
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.653,
+            "Ternary-val": 0.645,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.799
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.662,
+            "Ternary-val": 0.615,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.78
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.691,
+            "Ternary-val": 0.675,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.816
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.716,
+            "Ternary-val": 0.672,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.806
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.691,
+            "Ternary-val": 0.695,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.826
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.734,
+            "Ternary-val": 0.675,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.777
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.724,
+            "Ternary-val": 0.669,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.817
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.747,
+            "Ternary-val": 0.666,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.823
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.725,
+            "Ternary-val": 0.682,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.79
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 2.026,
+            "Ternary-val": 0.754,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.84
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.767,
+            "Ternary-val": 0.708,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.85
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.724,
+            "Ternary-val": 0.708,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.79
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.718,
+            "Ternary-val": 0.753,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.786
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.72,
+            "Ternary-val": 0.727,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.775
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.702,
+            "Ternary-val": 0.733,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.788
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.719,
+            "Ternary-val": 0.736,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.791
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.714,
+            "Ternary-val": 0.719,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.796
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.724,
+            "Ternary-val": 0.72,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.846
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.719,
+            "Ternary-val": 0.674,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.849
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.729,
+            "Ternary-val": 0.749,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.885
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.723,
+            "Ternary-val": 0.665,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.798
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.742,
+            "Ternary-val": 0.68,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.793
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.722,
+            "Ternary-val": 0.679,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.794
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.737,
+            "Ternary-val": 0.677,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.777
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.767,
+            "Ternary-val": 0.697,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.808
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.722,
+            "Ternary-val": 0.673,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.778
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.745,
+            "Ternary-val": 0.677,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.782
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.716,
+            "Ternary-val": 0.683,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.807
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.746,
+            "Ternary-val": 0.675,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.795
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.74,
+            "Ternary-val": 0.663,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.776
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.715,
+            "Ternary-val": 0.7,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.793
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.694,
+            "Ternary-val": 0.719,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.82
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.709,
+            "Ternary-val": 0.713,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.788
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.712,
+            "Ternary-val": 0.672,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.778
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.744,
+            "Ternary-val": 0.679,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.781
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.73,
+            "Ternary-val": 0.67,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.781
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.718,
+            "Ternary-val": 0.72,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.774
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.742,
+            "Ternary-val": 0.726,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.772
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.698,
+            "Ternary-val": 0.704,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.819
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.72,
+            "Ternary-val": 0.722,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.778
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.725,
+            "Ternary-val": 0.725,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.829
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.709,
+            "Ternary-val": 0.726,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.795
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.763,
+            "Ternary-val": 0.691,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.851
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.726,
+            "Ternary-val": 0.684,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.779
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.737,
+            "Ternary-val": 0.682,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.765
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.723,
+            "Ternary-val": 0.694,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.879
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.783,
+            "Ternary-val": 0.672,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.819
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.752,
+            "Ternary-val": 0.692,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.806
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.714,
+            "Ternary-val": 0.673,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.786
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.745,
+            "Ternary-val": 0.664,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.771
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.728,
+            "Ternary-val": 0.669,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.783
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.725,
+            "Ternary-val": 0.705,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.774
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.71,
+            "Ternary-val": 0.726,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.772
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.702,
+            "Ternary-val": 0.729,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.791
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.701,
+            "Ternary-val": 0.714,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.788
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.705,
+            "Ternary-val": 0.702,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.817
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.717,
+            "Ternary-val": 0.725,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.795
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.703,
+            "Ternary-val": 0.712,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.773
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.737,
+            "Ternary-val": 0.726,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.779
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.689,
+            "Ternary-val": 0.712,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.825
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.702,
+            "Ternary-val": 0.71,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.836
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.703,
+            "Ternary-val": 0.691,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.784
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.702,
+            "Ternary-val": 0.696,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.823
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.717,
+            "Ternary-val": 0.702,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.78
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.704,
+            "Ternary-val": 0.713,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.772
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.703,
+            "Ternary-val": 0.703,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.793
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.694,
+            "Ternary-val": 0.716,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.836
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.729,
+            "Ternary-val": 0.687,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.824
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.715,
+            "Ternary-val": 0.688,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.773
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.73,
+            "Ternary-val": 0.674,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.776
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.721,
+            "Ternary-val": 0.703,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.782
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.745,
+            "Ternary-val": 0.654,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.816
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.747,
+            "Ternary-val": 0.674,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.778
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.753,
+            "Ternary-val": 0.664,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.788
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.733,
+            "Ternary-val": 0.682,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.778
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.754,
+            "Ternary-val": 0.682,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.801
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.746,
+            "Ternary-val": 0.684,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.776
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.725,
+            "Ternary-val": 0.676,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.781
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.736,
+            "Ternary-val": 0.668,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.792
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.786,
+            "Ternary-val": 0.695,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.793
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.736,
+            "Ternary-val": 0.672,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.801
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.729,
+            "Ternary-val": 0.693,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.782
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.721,
+            "Ternary-val": 0.664,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.795
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.74,
+            "Ternary-val": 0.691,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.837
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.726,
+            "Ternary-val": 0.672,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.793
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.71,
+            "Ternary-val": 0.707,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.78
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.748,
+            "Ternary-val": 0.698,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.785
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.777,
+            "Ternary-val": 0.706,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.772
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.723,
+            "Ternary-val": 0.676,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.783
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.753,
+            "Ternary-val": 0.664,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.776
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.74,
+            "Ternary-val": 0.67,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.761
+        },
+        {
+            "El\u00e1gaz\u00e1ssal": 0.758,
+            "Ternary-val": 0.678,
+            "El\u00e1gaz\u00e1s n\u00e9lk\u00fcl": 0.785
+        }
+    ]
+}
