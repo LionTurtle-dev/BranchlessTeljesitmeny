@@ -70,5 +70,5 @@ A mérések eredményeit egy-egy jSON file, az átlagokat mindhárom esettel a `
     A PROGRAM EGY `ASUS TUF GAMING A15` LAPTOPON FUTOTT, `Ubuntu LTS` OPERÁCIÓS RENDSZER ALATT. A MÉRÉS NEM REPREZENTATÍV, DE BÁRKI FUTTATHATJA AZ OTTHONI GÉPÉN.
 
 
-### Konklúzió
+### Konklúzió:
 A mérés során arra a megállapításra jutottam, hogy python nyelven a kiinduló állítás, miszerint az elágazásmentes utasítások hamarabb lefutnak, mint az if-else szerkezet, nem állja meg a helyét. Az általam mért eredményeket lásd a txt file-ban és a jSON file-okban!
